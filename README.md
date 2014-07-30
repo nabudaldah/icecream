@@ -2,7 +2,7 @@
 
 *Simulation of [Hotelling's law](http://en.wikipedia.org/wiki/Hotelling's_law) in 1 and 2 dimensional space with 2 to 5 vendors*
 
-This model requires [NetLogo 5](https://ccl.northwestern.edu/netlogo/) (free for academic or personal use) to run. Please download NetLogo and open the <ice-cream v14.nlogo> file using NetLogo.
+This model requires [NetLogo 5](https://ccl.northwestern.edu/netlogo/) (free for academic or personal use) to run. Please download NetLogo and open the [ice-cream v14.nlogo](ice-cream v14.nlogo) file using NetLogo.
 
 ![Screenshot of IceCream](ice-cream v14 interface.png)
 
